@@ -8,7 +8,7 @@
 ---
 
 ## 📍 **Установка**
-1. Скачайте последнюю версию со страницы **[Releases](https://github.com/tvoj-akkaunt/RayLauncher/releases)**.
+1. Скачайте последнюю версию со страницы **[Releases](https://github.com/vibeOptimist/RayLauncher/releases)**.
 2. Распакуйте архив в **отдельную папку** (например, `C:\RayLauncher`).
 3. Запустите `RayLauncher.exe` (от имени администратора, если требуется).
 4. Следуйте инструкциям мастера установки.
