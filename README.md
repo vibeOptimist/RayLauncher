@@ -1,4 +1,4 @@
-# 🚀 Ray Launcher v0.0.1
+# 🚀 Ray Launcher
 
 
 Добро пожаловать в Ray Launcher — ваш новый проводник в мир Minecraft!
