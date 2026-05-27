@@ -1,6 +1,6 @@
 ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ (EULA)
 
-Программное обеспечение: Ray Launcher
+Программное обеспечение: RayLauncher
 Автор: Данила
 Дата: 2026
 
@@ -31,5 +31,5 @@
 
 7. КОНТАКТЫ
 По вопросам, связанным с данным ПО, обращайтесь:
-- Telegram: @tankist0701 (https://t.me/tankist0701)
+- Telegram: @vibeOptimist (https://t.me/vibeOptimist)
 - Канал проекта: @raylauncher (https://t.me/raylauncher).
