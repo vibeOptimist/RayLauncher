@@ -1,14 +1,14 @@
-# 🚀 Ray Launcher
+# 🚀 RayLauncher
 
 
-Добро пожаловать в Ray Launcher — ваш новый проводник в мир Minecraft!
+Добро пожаловать в RayLauncher — ваш новый проводник в мир Minecraft!
 
 Этот лаунчер оптимизирован для максимальной производительности и
 имеет возможности поддержки модов и модпаков.
 ---
 
 ## 📍 **Установка**
-1. Скачайте последнюю версию со страницы **[Releases](https://github.com/vibeOptimist/RayLauncher/releases)**.
+1. Скачайте последнюю версию со страницы **[Releases](https://github.com/tvoj-akkaunt/RayLauncher/releases)**.
 2. Распакуйте архив в **отдельную папку** (например, `C:\RayLauncher`).
 3. Запустите `RayLauncher.exe` (от имени администратора, если требуется).
 4. Следуйте инструкциям мастера установки.
@@ -38,5 +38,5 @@
 ---
 
 ## 🤝 **Поддержка**
-- **Telegram автора**: [@tankist0701](https://t.me/tankist0701)
+- **Telegram автора**: [@vibeOptimist](https://t.me/vibeOptimist)
 - **Канал проекта**: [@raylauncher](https://t.me/raylauncher)
