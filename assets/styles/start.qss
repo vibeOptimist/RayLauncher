@@ -1,0 +1,78 @@
+/* ========================= Global ========================= */
+QMainWindow {
+    background-color: #12131C
+}
+
+
+/* ========================= Frames ========================= */
+#start-frame {
+    background-color: #15161F;
+    border: 1px solid #25262F
+}
+
+#start-frame-part {
+    background-color: #1D1E27;
+    border: 1px solid #3C3D49;
+    border-radius: 20px
+}
+
+
+/* ========================= Buttons ========================= */
+QPushButton {
+    color: #F9F9F9;
+    font-family: "Rubik ExtraBold";
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 5px 15px
+}
+
+#start-button {
+    background-color: #303138;
+    border: 1px solid #3E3F46
+}
+
+#start-button:hover {
+    background-color: #3C7DDE;
+    border-color: #356EC4
+}
+
+#start-button:pressed {
+    background-color: #3C9FE5;
+    border-color: #368CC9
+}
+
+
+/* ========================= Labels ========================= */
+QLabel {
+    font-family: "Rubik";
+    font-size: 13px;
+    color: #D0D0D0
+}
+
+#start-title {
+    color: #EBEBEB;
+    font-size: 20px;
+    font-family: "Rubik ExtraBold"
+}
+
+#start-label {
+    color: #797979;
+    font-size: 14px;
+    font-family: "Rubik ExtraBold"
+}
+
+#start-info {
+    font-size: 14px
+}
+
+
+/* ========================= Other ========================= */
+#start-entry {
+    background-color: #1E1F27;
+    color: #EFEFEF;
+    border: 1px solid #3E3F46;
+    border-radius: 8px;
+    font-family: "Rubik Bold";
+    font-size: 16px;
+    padding: 4px
+}
